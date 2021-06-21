@@ -1,4 +1,4 @@
-How to run the Small CRM  Project
+### How to run the Small CRM  Project
 1. Download the  zip file
 
 2. Extract the file and copy crm folder
@@ -19,8 +19,3 @@ Credential for admin panel :
 
 Username: admin
 Password: admin
-
-Credential for user panel :
-
-Username: phpgurukulteam@gmail.com
-Password: Demo@123
