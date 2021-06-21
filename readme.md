@@ -1,21 +1,22 @@
 ### How to run the Small CRM  Project
-1. Download the  zip file
 
-2. Extract the file and copy crm folder
+  1. Download the  zip file
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+  2. Extract the file and copy crm folder
 
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+  3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 
-5. Create a database with name crm
+  4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-6. Import crm.sql file(given inside the zip package in SQL file folder)
+  5. Create a database with name crm
 
-7.Run the script http://localhost/crm (frontend)
+  6. Import crm.sql file(given inside the zip package in SQL file folder)
 
-8.Run the script http://localhost/crm/admin 
+  7.Run the script http://localhost/crm (frontend)
 
-Credential for admin panel :
+  8.Run the script http://localhost/crm/admin 
+
+  Credential for admin panel :
 
 Username: admin
 Password: admin
