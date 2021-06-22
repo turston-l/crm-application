@@ -1,4 +1,4 @@
-### How to run the Small CRM  Project
+How to run the Small CRM  Project
 
   1. Download the  zip file
 
