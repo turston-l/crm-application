@@ -16,7 +16,7 @@ How to run the Small CRM Project
 
   8.Run the script http://localhost/crm/admin 
 
-  Credential for admin panel :
+  Credential for admin panel:
 
 Username: admin
 Password: admin
